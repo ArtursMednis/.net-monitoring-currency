@@ -1,0 +1,6 @@
+E:\visualStudioProjekts\reactNativeTest\kata\asp\updateCurrency\updateCurrency\bin\Debug\updateCurrency.exe.config
+E:\visualStudioProjekts\reactNativeTest\kata\asp\updateCurrency\updateCurrency\bin\Debug\updateCurrency.exe
+E:\visualStudioProjekts\reactNativeTest\kata\asp\updateCurrency\updateCurrency\bin\Debug\updateCurrency.pdb
+E:\visualStudioProjekts\reactNativeTest\kata\asp\updateCurrency\updateCurrency\obj\Debug\updateCurrency.csprojResolveAssemblyReference.cache
+E:\visualStudioProjekts\reactNativeTest\kata\asp\updateCurrency\updateCurrency\obj\Debug\updateCurrency.exe
+E:\visualStudioProjekts\reactNativeTest\kata\asp\updateCurrency\updateCurrency\obj\Debug\updateCurrency.pdb
